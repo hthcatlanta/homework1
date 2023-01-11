@@ -166,11 +166,12 @@ end combine */
     background-color: #0072bb;
     color: #ffffff;
 }
-
-.search-engine-optimization img {
+/* combine .search-engine-optimization img, .online-reputation-management img, 
+.social-media-marketing img */
+.search-engine-optimization img , .online-reputation-management img, .social-media-marketing img {
     max-height: 200px;
 }
-
+/* start combine
 .online-reputation-management img {
     max-height: 200px;
 }
@@ -178,7 +179,7 @@ end combine */
 .social-media-marketing img {
     max-height: 200px;
 }
-
+end combine */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
