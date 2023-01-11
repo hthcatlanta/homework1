@@ -120,13 +120,14 @@ p {
 }
 
 end of combine */
-
-.benefit-lead img {
+/* combine .benefit-lead img, .benefit-brand img, .benefit-cost img */
+.benefit-lead img , .benefit-brand img, .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* begin combine 
 .benefit-brand img {
     display: block;
     margin: 10px auto;
@@ -138,7 +139,7 @@ end of combine */
     margin: 10px auto;
     max-width: 150px;
 }
-
+end combine */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
