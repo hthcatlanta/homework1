@@ -140,6 +140,10 @@ end of combine */
     max-width: 150px;
 }
 end combine */
+
+/* if combining .search-engine-optimization, .online-reputatation-management, 
+.social-media-marketing  blue background color changes. therefore, not combining 
+these three until I can figure how to fix this */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -166,6 +170,7 @@ end combine */
     background-color: #0072bb;
     color: #ffffff;
 }
+
 /* combine .search-engine-optimization img, .online-reputation-management img, 
 .social-media-marketing img */
 .search-engine-optimization img , .online-reputation-management img, .social-media-marketing img {
