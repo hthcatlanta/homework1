@@ -141,10 +141,9 @@ end of combine */
 }
 end combine */
 
-/* if combining .search-engine-optimization, .online-reputatation-management, 
-.social-media-marketing  blue background color changes. therefore, not combining 
-these three until I can figure how to fix this */
-.search-engine-optimization {
+/* combining .search-engine-optimization, .online-reputatation-management, 
+.social-media-marketing  */
+.search-engine-optimization , .online-reputation-management , .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -152,7 +151,7 @@ these three until I can figure how to fix this */
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* combinging
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -161,7 +160,8 @@ these three until I can figure how to fix this */
     background-color: #0072bb;
     color: #ffffff;
 }
-
+*/
+/*
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -170,7 +170,7 @@ these three until I can figure how to fix this */
     background-color: #0072bb;
     color: #ffffff;
 }
-
+end combine */
 /* combine .search-engine-optimization img, .online-reputation-management img, 
 .social-media-marketing img */
 .search-engine-optimization img , .online-reputation-management img, .social-media-marketing img {
