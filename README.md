@@ -11,8 +11,9 @@ In CSS file, like elements are grouped together and are displayed in the order r
 
 Publish website to GitPages
 URL of GitPage publish
-
-URL of GitHub Repository
+ https://hthcatlanta.github.io/homework1/
+ 
+ URL of GitHub Repository
 https://github.com/hthcatlanta/homework1.git
 ## Usage
 
