@@ -22,5 +22,5 @@ https://github.com/hthcatlanta/homework1.git
 
 ## Commit log
  History of Commits
-[]images/commit1.png
-[]images/commit2.png
+![]images/commit1.png
+![]images/commit2.png
