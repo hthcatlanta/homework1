@@ -13,11 +13,11 @@ Publish website to GitPages
 URL of GitPage publish
 
 URL of GitHub Repository
-https://github.com/hthcatlanta/homework1
+https://github.com/hthcatlanta/homework1.git
 ## Usage
 
     ![alt text](assets/images/screenshot.png
 
 ## Commit log
-image.png
+
 
