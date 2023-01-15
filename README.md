@@ -17,7 +17,9 @@ URL of GitPage publish
 https://github.com/hthcatlanta/homework1.git
 ## Usage
 
-    ![alt text](assets/images/screenshot.png
+    [](assets/images/commit1.png
+    [](assets/images/commit2.png
+
 
 ## Commit log
 
