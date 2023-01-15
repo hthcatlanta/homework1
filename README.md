@@ -1,6 +1,6 @@
 # homework1 -refractor of Horiseon Website mockup
 
-## Refreator of Horiseon Website mockup for marketing
+## Refractor of Horiseon Website mockup for marketing
 
 Structure of HTML file uses semantic HTML elements.
 Modify title of webpage to help promote SEO.
